@@ -1,0 +1,31 @@
+.navbar{
+    background-color: #D8D8D8;
+}
+
+.logo{
+    margin-left: 15px;
+    width: 70px;
+}
+
+.quem-somos{
+    font-family:'Trebuchet MS', sans-serif;
+    color: black;
+    background-color: #E6E6E6;
+}
+
+.parceiros{
+    font-family:'Trebuchet MS', sans-serif;
+    color: black;
+    background-color: #F2F2F2;
+}
+
+.servicos{
+    font-family:'Trebuchet MS', sans-serif;
+    color: black;
+    background-color: #FAFAFA;
+}
+
+.margin{
+    padding-top: 25px;
+    padding-bottom: 45px;
+}
